@@ -80,7 +80,7 @@ end
 
 local library = {
     version = "1.0.0",
-    title = title or "RZX Project " .. tostring(math.random(1,366)),
+    title = title or "RZX Project V1",
     fps = 0,
     rank = "private"
 }
